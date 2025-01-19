@@ -1,6 +1,5 @@
 ## FRG Minecraft 👋
 
-- 🥔Potato
-- 🍅Tomato
+- 🥔Potato -> 🥬Cabbage
 - 🥕Carrot
-- 🥬Cabbage
+- *🍅Tomato（不再使用）*
